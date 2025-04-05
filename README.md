@@ -1,6 +1,6 @@
-Helloooo guys!!
+# Helloooo guys!!
 
-# Sou a Jesiane-Freire 
+Sou a Jesiane-Freire 
 
 Atuo como Coordenadora de QA, liderando a área de Qualidade desde sua implementação na empresa atual, onde há 4 anos venho evoluindo processos para alinhá-los às estratégias do negócio. Com sólida formação – Pós-Graduação em Engenharia Ágil de Software, Graduação em Sistemas para Internet e cursando Automação de Testes.
 
